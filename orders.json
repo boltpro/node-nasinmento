@@ -1,0 +1,18 @@
+{
+  "NAME": "Zasd Yu",
+  "ADDRESS": "zhenxing dandong liaoning",
+  "PHONE": "1347049886",
+  "ORDER": [
+    [
+      "Artichokes",
+      "Caramelized onions",
+      "Fire roasted red peppers",
+      "Green peppers",
+      "Grilled zucchini",
+      "Hot banana peppers"
+    ],
+    "X-Large",
+    "Medium"
+  ],
+  "QTY": "1"
+}
